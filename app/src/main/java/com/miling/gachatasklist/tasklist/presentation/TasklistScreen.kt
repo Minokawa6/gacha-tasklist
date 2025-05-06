@@ -21,7 +21,7 @@ import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import com.miling.gachatasklist.R
-import com.miling.gachatasklist.ui.theme.GachaTasklistTheme
+import com.miling.gachatasklist.core.presentation.theme.GachaTasklistTheme
 
 @Composable
 fun TasklistComposable(modifier: Modifier = Modifier){

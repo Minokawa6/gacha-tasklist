@@ -1,4 +1,4 @@
-package com.miling.gachatasklist.ui.theme
+package com.miling.gachatasklist.core.presentation.theme
 
 import androidx.compose.ui.graphics.Color
 
