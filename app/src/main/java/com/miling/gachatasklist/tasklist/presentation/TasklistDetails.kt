@@ -18,7 +18,7 @@ import com.miling.gachatasklist.core.presentation.theme.GachaTasklistTheme
 fun TasklistDetails(modifier: Modifier = Modifier){
     Box(
         contentAlignment = Alignment.TopCenter,
-        modifier = Modifier
+        modifier = modifier
             .fillMaxSize()
             .background(color = MaterialTheme.colorScheme.background)
     ){
